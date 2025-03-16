@@ -1,4 +1,5 @@
 # Expense Tracker
+![Screenshot 2025-03-16 181535](https://github.com/user-attachments/assets/c57316ad-d49e-4520-a9f4-1a7dd9ded71e)
 
 ## 📌 Project Overview
 The **Expense Tracker** is a full-stack web application that allows users to track their daily expenses. Users can add, view, and delete their expenses with authentication support.
